@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/harick29/Leetcode---/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harick29/Leetcode---/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/harick29/Leetcode---/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
