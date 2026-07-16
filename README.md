@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/harick29/Leetcode---/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/harick29/Leetcode---/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/harick29/Leetcode---/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/harick29/Leetcode---/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/harick29/Leetcode---/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
