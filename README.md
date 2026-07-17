@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0492-construct-the-rectangle](https://github.com/harick29/Leetcode---/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harick29/Leetcode---/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
 |  |
