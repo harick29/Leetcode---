@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harick29/Leetcode---/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harick29/Leetcode---/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/harick29/Leetcode---/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/harick29/Leetcode---/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harick29/Leetcode---/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harick29/Leetcode---/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/harick29/Leetcode---/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harick29/Leetcode---/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sliding Window
 |  |
